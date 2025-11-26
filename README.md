@@ -6,7 +6,7 @@
 и выкачиваем последний релиз.
 ## Android
 Для андроида придётся скачивать *.apk:
-https://github.com/2dust/v2flyNG/releases
+https://github.com/2dust/v2rayNG
 
 # Добавление правил
 Идем в настройки маршрутов - добавить.
