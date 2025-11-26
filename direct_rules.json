@@ -1,0 +1,23 @@
+[
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:ru",
+      "geoip:private"
+    ],
+    "domain": [
+      "geosite:private",
+      "geosite:category-ru",
+      "geosite:category-gov-ru",
+      "geosite:yandex",
+      "geosite:mailru",
+      "geosite:vk",
+      "domain:ru",
+      "domain:xn--p1ai",
+      "domain:su"
+    ],
+    "enabled": true,
+    "remarks": "ru - direct"
+  }
+]
